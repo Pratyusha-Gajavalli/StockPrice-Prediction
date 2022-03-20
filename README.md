@@ -35,7 +35,8 @@ Learning rate
 Patience for early stopping
 
 # Hyperparameters analysis
-
+https://github.com/Pratyusha-Gajavalli/StockPrice-Prediction/issues/1#issue-1174434111
+https://github.com/Pratyusha-Gajavalli/StockPrice-Prediction/issues/2#issue-1174434379
 
 # Challenges encountered
 Gradient Vanishing problem
